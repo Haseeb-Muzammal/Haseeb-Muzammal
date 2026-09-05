@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi 👋, I'm Haseeb Muzammal
 
-<!--
-**Haseeb-Muzammal/Haseeb-Muzammal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 Aspiring Front-End Developer
 
-Here are some ideas to get you started:
+I am passionate about building responsive, user-friendly and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 🚀 About Me
+
+- 🌱 Currently improving my JavaScript skills
+- 💻 Interested in Front-End Development
+- 🎓 BS Computer Science Student
+- 👨‍💻 Building personal web projects
+
+
+🛠️ Skills
+
+HTML | CSS | JavaScript | C++
+
+
+
+ 🚀 Projects
+
+ 🌤️ Weather App
+A responsive weather application built using HTML, CSS and JavaScript.
+
+ ✅ To-Do List App
+A task management application built using HTML, CSS and JavaScript with Local Storage.
+
+
+
+ 📫 Connect With Me
+
+ LinkedIn: www.linkedin.com/in/
+haseeb-muzammal-a23838354
+
+ Email: haseebfrontend5@gmail.com
+
+
+
+⭐ Always learning, always building!
